@@ -2,7 +2,7 @@ Chao, world!
 
 `cd`:
 
-( <br> )
+<br>
 
 cd blank: ![Image](cd blank.png)
 This returns the working directory to home, if the working directory is at home, then nothing happens.
@@ -16,11 +16,11 @@ Sets the current working directory to the directory specified if it is in the cu
 cd file: ![Image](cd file.png)
 This is an error, the change directory command can't change into a file as it isn't a directory and therefore doesn't have the same commands.
 
-( <br> )
+<br>
 
 `ls`:
 
-( <br> )
+<br>
 
 ls blank: ![Image](ls blank.png)
 Creates a list of everything in the current working directory.
@@ -31,11 +31,11 @@ If using an absolute class, the ls command will make a list of everything in the
 ls file: ![Image](ls file.png)
 List the absolute path of the file.
 
-( <br> )
+<br>
 
 `cat`:
 
-( <br> )
+<br>
 
 cat blank: ![Image](cat blank.png)
 Breaks the line unless you use Ctrl+Z to stop the function
