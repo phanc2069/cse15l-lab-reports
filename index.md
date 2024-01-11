@@ -4,18 +4,24 @@ Chao, world!
 
 <br>
 
-cd blank: ![Image](cd blank.png)
+cd blank:
+<br>
+![Image](cd blank.png)
 <br>
 This returns the working directory to home, if the working directory is at home, then nothing happens.
 
 
-cd dir: ![Image](cd dir.png)
+cd dir:
+<br>
+![Image](cd dir.png)
 <br>
 Sets the current working directory to the directory specified if it is in the current working directory, otherwise an error is thrown stating that the directory doesn't exist.
 
 
 
-cd file: ![Image](cd file.png)
+cd file: 
+<br>
+![Image](cd file.png)
 <br>
 This is an error, the change directory command can't change into a file as it isn't a directory and therefore doesn't have the same commands.
 
@@ -25,15 +31,21 @@ This is an error, the change directory command can't change into a file as it is
 
 <br>
 
-ls blank: ![Image](ls blank.png)
+ls blank: 
+<br>
+![Image](ls blank.png)
 <br>
 Creates a list of everything in the current working directory.
     
-ls dir: ![Image](ls dir.png)
+ls dir: 
+<br>
+![Image](ls dir.png)
 <br>
 If using an absolute class, the ls command will make a list of everything in the specified directory.
     
-ls file: ![Image](ls file.png)
+ls file: 
+<br>
+![Image](ls file.png)
 <br>
 List the absolute path of the file.
 
@@ -43,14 +55,20 @@ List the absolute path of the file.
 
 <br>
 
-cat blank: ![Image](cat blank.png)
+cat blank:
+<br>
+![Image](cat blank.png)
 <br>
 Breaks the line unless you use Ctrl+Z to stop the function
     
-cat dir: ![Image](cat dir.png)
+cat dir: 
+<br>
+![Image](cat dir.png)
 <br>
 Error cat can't list out the contents of the file as the list command does that. The cat command is for files and the ls command is for directories. 
 
-cat file: ![Image](cat file.png)
+cat file: 
+<br>
+![Image](cat file.png)
 <br>
 spells out the contents of the file in the command line.
