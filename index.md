@@ -1,19 +1,19 @@
 Chao, world!
-{
+
 cd:
-}
 
-```
+
+
 { cd blank: ![Image](cd blank.png) }
-```
 
-```
+
+
 { cd dir: ![Image](cd dir.png) }
-```
 
-```
+
+
 { cd file: ![Image](cd file.png) }
-```
+
 
      
 {
