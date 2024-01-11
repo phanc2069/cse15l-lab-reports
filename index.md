@@ -3,6 +3,7 @@ Chao, world!
 `cd`:
 
 
+
 cd blank:
 <br>
 ![Image](cd blank.png)
@@ -29,6 +30,7 @@ This is an error, the change directory command can't change into a file as it is
 `ls`:
 
 
+
 ls blank: 
 <br>
 ![Image](ls blank.png)
@@ -50,6 +52,7 @@ List the absolute path of the file.
 <br>
 
 `cat`:
+
 
 
 cat blank:
