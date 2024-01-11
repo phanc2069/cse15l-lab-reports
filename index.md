@@ -2,7 +2,6 @@ Chao, world!
 
 `cd`:
 
-<br>
 
 cd blank:
 <br>
@@ -29,7 +28,6 @@ This is an error, the change directory command can't change into a file as it is
 
 `ls`:
 
-<br>
 
 ls blank: 
 <br>
@@ -53,7 +51,6 @@ List the absolute path of the file.
 
 `cat`:
 
-<br>
 
 cat blank:
 <br>
