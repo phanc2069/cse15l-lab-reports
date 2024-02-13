@@ -65,6 +65,7 @@ The Bug:
     }
     return arr;
   }`
+<br>
 The fixed solution:
 `// Returns a *new* array with all the elements of the input array in reversed
   // order
