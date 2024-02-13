@@ -9,8 +9,11 @@ This is the first instance of the chat room being used and all it does is add th
 ![Image](Lab3 Second Pic.png)
 Almost identical to the previous image, but the `String[]` Messagelog has multiple inputs now and reconstructed which effectively replaced the plus signs with spaces.
 # Part 2
-![Image](Lab3 Third Pic.png)
-![Image](Lab3 Fourth Pic.png)
+Private Key:
+![Image](Lab3 Pic Fifth.png)
+
+Public Key:
+![Image](Lab3 Pic Sixth.png)
 # Part 3
 
 Setting up a server was more tedious than I remember, but learning where the public and private key was in the system was a cool experience to have. I also remembered the pain of using regex with some particular symbols (+). THis lab was also a wake up call to touch up on the basics of Java again, because of the many easy mistakes I made on this particular coding project.
