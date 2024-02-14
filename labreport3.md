@@ -163,20 +163,20 @@ Launching the command<br>
 <br>
 prevents lines from being tabbed automatically when exceeding the character limit. 
 <br>
-![image](Lab5 s2.png)<br>
+![image](lab5 s2.png)<br>
 Launching the command<br>
-![image](Lab5 s.png)<br>
+![image](lab5 s.png)<br>
 This file is tabbed manually so it doesn't overflow past the screen<br>
-![image](Lab5 s1.png)<br>
+![image](lab5 s1.png)<br>
 This is to show that you can scroll sideways<br>
 
 -N
 <br>
 Gives line numbers
 <br>
-![image](Lab5 n2.png)<br>
+![image](lab5 n2.png)<br>
 Launching the command<br>
-![image](Lab5 n.png)<br>
+![image](lab5 n.png)<br>
 This file now has the line number on the side.
 
 
