@@ -1,6 +1,6 @@
 ## Lab Report 4
 
-![Image](lab7 pic1.png)
+![Image](lab7 pic 1.png)
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-![Image](lab7 pic2.png)
+![Image](lab7 pic 2.png)
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-![Image](lab7 pic3.png)
+![Image](lab7 pic 3.png)
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-![Image](lab7 pic4.png)
+![Image](lab7 pic 4.png)
 
 <br>
 
@@ -32,7 +32,7 @@
 
 <br>
 
-![Image](lab7 pic5.png)
+![Image](lab7 pic 5.png)
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <br>
 
-![Image](lab7 pic6.png)
+![Image](lab7 pic 6.png)
 
 <br>
 
