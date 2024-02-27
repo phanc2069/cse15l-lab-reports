@@ -28,7 +28,7 @@
 
 <br>
 
-[UP], [UP], [UP], [UP], [UP], [ENTER]: The command `bash test.sh` executes the .sh file inside the copied repository. I accessed it from the command history by hitting the up key 5 times. As expected the tests failed.
+[UP], [UP], [UP], [UP], [UP], [ENTER]: The command `bash test.sh` executes the .sh file inside the copied repository. The test file was compile the junit test and run the junit test. I accessed this command from the command history by hitting the up key 5 times. As expected the tests failed.
 
 <br>
 
@@ -37,3 +37,20 @@
 <br>
 
 [UP], [UP], [UP], [UP], [UP], [ENTER]: The command `vim ListExamples.java` opens the file in the command line and allows you to view and edit it. Just like others before, the command was saved on the command history and was accessed by pressing the up key 5 times. 
+
+<br>
+
+![Image](lab7 pic6.png)
+
+<br>
+
+[SHIFT+g], [6], [k], [1], [e], [r], [2]: This sequences goes to the bottom of the page, jumps up 6 lines, moves to the end of the first word, and replaces the last character with a 2.
+
+<br>
+
+![Image](lab7 pic7.png)
+
+<br>
+
+[:], [w], [q], [ENTER], [up], [up], [ENTER]: The command `:wq` saves the file and exits vim. The next set of commands goes up 2 in the command history and the enter key executes it. The command that was executed was `bash test.sh` which was the command that compiled and executed the junit tests.
+
