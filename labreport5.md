@@ -32,6 +32,10 @@ ArrayTests.java <br>
 ![Image](lab9 pic2_2.png) <br>
 test.sh <br>
 ![Image](lab9 pic2.png)
+<br>
+
+All I did to trigger the bug was to running the test script: `bash test.sh` 
+<br>
 
 TA: This error is weird, but I happened to run into it before. Can you tell me how you logged in to the VM?
 
