@@ -12,6 +12,26 @@ Chris: While working on lab 4, I ran into an interesting error after executing t
 This error seems to be that the virtual machine doesn't recognize junit as a valid library? You can see me trying to compile the file manually under it but it also fails to compile. The bash script was not modified by me as I grabbed it straight from the repo provided But since I don't have any admin privileges to the VM, I can't come up with a solution to this issue. 
 
 <br>
+Here is the set up of the directory:
+
+````````
+ieng6-203
+  lab3
+    ArrayExamples.java
+    ArrayTests.java
+    test.sh
+    lib
+      hamcrest-core-1.3.jar
+      junit-4.13.2.jar
+````````
+This is the contents of the files:
+<br>
+ArrayExamples.java <br>
+![Image](lab9 pic2_1.png) <br>
+ArrayTests.java <br>
+![Image](lab9 pic2_2.png) <br>
+test.sh <br>
+![Image](lab9 pic2.png)
 
 TA: This error is weird, but I happened to run into it before. Can you tell me how you logged in to the VM?
 
