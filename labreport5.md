@@ -51,8 +51,6 @@ Chris: That seemed to solve the issue! What a weird quirk. Thanks for your help!
 
 <br>
 
-
-
 # Part 2
 
 Back when I took a similar class in highschool, I learned about VIM, but was relegated to learning NANO instead. I definitely prefer using VIM even though I put more time into NANO. Getting good with VIM reminds me of my CS friends and how they are so efficient with commands and how they run linux as their OS. Learning VIM was like looking through those old cheat codes forums online and feeling like some member of a secret society with the forbidden knowledge to destabilize society (lol). 
